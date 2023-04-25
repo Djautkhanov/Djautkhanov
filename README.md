@@ -36,7 +36,7 @@
 
 </a>
 
-<a  href="https://wa.me/79225799575">
+<a  href="https://vk.com/vdzhautkhanov">
 
 <img  src="https://img.shields.io/badge/Vkontakte-0a0c10?style=for-the-badge&logo=vk&logoColor=green"  alt="wa">
 
